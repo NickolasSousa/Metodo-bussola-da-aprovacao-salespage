@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --yellowText: 234, 201, 38;
+    --orangeText: 255, 129, 1;
+    --whiteText: 255, 250, 236;
+    --grayText: 120, 120, 120;
+}
+
+html {
+    scroll-behavior: smooth;
+}
