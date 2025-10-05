@@ -1,3 +1,4 @@
+// import { DeviceMobileCameraIcon, InfinityIcon, InstagramLogoIcon, LockIcon, ShieldCheckIcon } from '@phosphor-icons/react';
 import { DeviceMobileCameraIcon, InfinityIcon, InstagramLogoIcon, LockIcon, ShieldCheckIcon } from '@phosphor-icons/react/dist/ssr';
 import BussolaIcone from '../assets/metodoBussola-icon.png';
 import Line from '../assets/Line-2.png';

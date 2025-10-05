@@ -1,3 +1,4 @@
+// import { ChartBarIcon, StarIcon } from '@phosphor-icons/react';
 import { ChartBarIcon, StarIcon } from '@phosphor-icons/react/dist/ssr';
 import Line from '../assets/Line-1.png';
 

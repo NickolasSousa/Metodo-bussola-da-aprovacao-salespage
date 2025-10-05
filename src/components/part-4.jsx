@@ -1,4 +1,5 @@
 import { CheckCircleIcon, CreditCardIcon, DeviceMobileCameraIcon, LockIcon, ShieldCheckIcon } from '@phosphor-icons/react/dist/ssr';
+// import { CheckCircleIcon, CreditCardIcon, DeviceMobileCameraIcon, LockIcon, ShieldCheckIcon } from '@phosphor-icons/react';
 
 function Part4({ id }) {
     return (

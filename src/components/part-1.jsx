@@ -1,3 +1,4 @@
+// import { CheckCircleIcon, LockIcon, CreditCardIcon } from '@phosphor-icons/react';
 import { CheckCircleIcon, LockIcon, CreditCardIcon } from '@phosphor-icons/react/dist/ssr';
 import metodoBussolaIcon from '../assets/metodoBussola-icon.png';
 

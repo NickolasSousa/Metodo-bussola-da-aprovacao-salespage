@@ -2,6 +2,7 @@ import iconEssay from '../assets/icon-essay.png';
 import iconMemory from '../assets/icon-memory.png';
 import iconFocus from '../assets/icon-focus.png';
 import iconPlanning from '../assets/icon-planning.png';
+// import { TargetIcon } from '@phosphor-icons/react';
 import { TargetIcon } from '@phosphor-icons/react/dist/ssr';
 
 function Part2({ id }) {
