@@ -1,6 +1,5 @@
 import './App.css';
 import Part1 from './components/part-1';
-import { CheckCircle } from 'phosphor-react';
 import Part2 from './components/part-2';
 import Part3 from './components/part-3';
 import Part4 from './components/part-4';
